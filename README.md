@@ -1,8 +1,3 @@
-# Donate
-Donations keep me motivated to make and release more stuff such as a custom obfuscator and loaders.
-
-PayPal: paypal@roeldev.nl
-
 # Serenity
 This is cheat software I have written a long time ago for Overwatch and used for quite a long time. It has been optimized for use with my sensitivity settings, I'll include those. Currently I do not give any support but I might push some updates when I return to Overwatch again. The cheat has been written in C# and the search algorithm is pretty fast. It's not the prettiest code and it was written over a weekend time.
 
@@ -27,5 +22,3 @@ The "widowbot" looks for the color of the outline around a hero. This only works
 ### Triggerbot
 Nothing worth noting. Does not work properly but feel free to play around with it. It is disabled by default by having the thread commented out in `program.cs`.
 
-## Contact
-You can post an issue in the repo and I will check them out. I will push changes I make when I feel like actually working on this project. I will see if I can write a wiki overtime.
